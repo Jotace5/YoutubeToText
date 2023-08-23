@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:12,160
+¿Qué es la nube? Al hablar de la nube nos referimos al conjunto de dispositivos y conexiones
+
+2
+00:00:12,160 --> 00:00:18,060
+que nos permiten transferir datos a través de internet. Imagina que Carlos está trabajando
+
+3
+00:00:18,060 --> 00:00:24,600
+en un documento junto con su amiga Margarita, pero no están en el mismo lugar. ¿Cómo
+
+4
+00:00:24,600 --> 00:00:31,960
+lo hacen? Los dos están conectados a internet por medio de cualquier equipo, como un computador
+
+5
+00:00:31,960 --> 00:00:39,380
+o un teléfono inteligente. En este proceso intervienen cables interoceánicos, satélites
+
+6
+00:00:39,380 --> 00:00:45,600
+y muchas cosas más. El documento en que trabajan Carlos y Margarita está guardado
+
+7
+00:00:45,600 --> 00:00:51,280
+en un servidor en alguna parte del mundo. A través de internet, ellos se comunican
+
+8
+00:00:51,280 --> 00:00:58,400
+con el servidor y acceden al documento fácil y rápidamente, sin importar el lugar donde
+
+9
+00:00:58,400 --> 00:01:04,600
+se encuentran. Todas las conexiones y dispositivos que operan para permitir este proceso son
+
+10
+00:01:04,600 --> 00:01:10,520
+las que conforman la nube. Pero además de poder almacenar datos en línea, en la nube
+
+11
+00:01:10,520 --> 00:01:16,920
+también podemos acceder a servicios como alquiler de infraestructura o maquinaria para procesamiento
+
+12
+00:01:16,920 --> 00:01:24,800
+de datos y de software, o sea, programas para procesar datos. Por ejemplo, Francisco,
+
+13
+00:01:24,800 --> 00:01:31,080
+un importante director, está realizando una película en 3D, pero necesita procesar las
+
+14
+00:01:31,080 --> 00:01:37,920
+imágenes mediante un proceso llamado render y no cuenta con los equipos para hacerlo,
+
+15
+00:01:37,920 --> 00:01:44,960
+por lo cual contrata una empresa externa para que se encargue de ese proceso y él se concentre
+
+16
+00:01:44,960 --> 00:01:50,440
+en otras actividades. Hay mucho que aprender de la nube. Descubramoslo juntos.
+
