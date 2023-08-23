@@ -1,7 +1,7 @@
 TubeToText App
-Es una AI entrenada para descargar un texto resumido y marcado de un video de youTube
+Aplicacion en proceso...
 
-YouTube Video Summarizer App
+Es una AI entrenada para descargar un texto resumido y marcado de un video de youTube
 
 La TubeToText es una aplicación que te permite tomar un video de YouTube y obtener un resumen conciso y fácil de entender.
 ¡Nunca más tendrás que ver videos largos para obtener la información clave que necesitas!
